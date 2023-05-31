@@ -1,1 +1,3 @@
 SELECT name FROM sys.databases;
+USE organizationdb;
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA;
